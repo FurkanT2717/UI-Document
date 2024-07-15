@@ -91,4 +91,4 @@ Upon loading, the User Management screen displays the following components:
 - Provide clear and concise error messages.
 - Make sure the UI is navigable via keyboard.
 
-This specification serves as a guideline for developers to implement the User Management screen. Any changes to the UI components or behavior should be documented and approved before implementation.
+This specification serves as a guideline for developers to implement the User Management screen.
